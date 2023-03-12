@@ -1,0 +1,19 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "primeraentrega",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santimolina43/Entrega1Molina.git"
+  },
+  "author": "santimolina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santimolina43/Entrega1Molina/issues"
+  },
+  "homepage": "https://github.com/santimolina43/Entrega1Molina#readme"
+}
